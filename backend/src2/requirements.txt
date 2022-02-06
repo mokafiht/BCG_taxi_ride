@@ -1,0 +1,6 @@
+# src/requirements.txt
+
+Flask
+pytest
+flask-inputs
+jsonschema
